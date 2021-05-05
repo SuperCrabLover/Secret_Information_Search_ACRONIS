@@ -10,7 +10,5 @@ Secret Information Search was written for admission to the department of MIPT Ac
     make
 ## Usage
 After executing make the ELF named 'a' will be created. For executing the porgramm type
----
-	./a <input file name> <string container name>
----
+`./a <input file name> <string container name>`
 The output will be printed into terminal for all of the strings in the container. The string in the container should be divided by "\n" sumbol.
